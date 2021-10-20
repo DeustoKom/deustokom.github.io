@@ -23,7 +23,7 @@ twitter_username: DeustoKom
 github_username: DeustoKom
 minimal_mistakes_skin: default
 search: false
-avatar : "/assets/images/deustokom-avatar.png"
+logo : "/assets/images/deustokom-avatar.png"
 
 
 # Build settings
