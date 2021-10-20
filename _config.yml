@@ -23,6 +23,8 @@ twitter_username: DeustoKom
 github_username: DeustoKom
 minimal_mistakes_skin: default
 search: true
+avatar : "/assets/images/deustokom-avatar.png"
+
 
 # Build settings
 markdown: kramdown
@@ -58,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "DeustoKom"
+  name   : "DeustoKom Lab"
   avatar : "/assets/images/deustokom-avatar.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
