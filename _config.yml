@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "DeustoKom Lab"
   avatar : "/assets/images/deustokom-avatar.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
