@@ -79,9 +79,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DeustoKom"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@DeustoKom"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DeustoKom"
